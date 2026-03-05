@@ -10,4 +10,5 @@ This repository contains completed QA tasks:
 
 test-cases/ – payment test cases  
 playwright-tests/ – Playwright automated test  
+
 probability-task/ – probability problem solution
