@@ -5,7 +5,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-##BUGID - 001
+## BUGID - 001
 
 ### Preconditions
 - User is authorized
