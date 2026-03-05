@@ -5,7 +5,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-01 — Successful Payment (Positive Scenario)
+##BUGID - 001
 
 ### Preconditions
 - User is authorized
