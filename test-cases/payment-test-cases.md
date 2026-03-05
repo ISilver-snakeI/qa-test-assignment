@@ -29,7 +29,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-02 — Payment Declined by Bank
+## BUGID - 002
 
 ### Preconditions
 - User is on the payment page
@@ -46,7 +46,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-03 — Payment Service Error
+## BUGID - 003
 
 ### Preconditions
 - User is on the payment page
@@ -64,7 +64,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-04 — Empty Card Fields
+## BUGID - 004
 
 ### Preconditions
 - Payment page is open
@@ -79,7 +79,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-05 — Invalid Card Number
+## BUGID - 005
 
 ### Preconditions
 - Payment page is open
@@ -94,7 +94,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-06 — Invalid CVV
+## BUGID - 006
 
 ### Preconditions
 - Payment page is open
@@ -110,7 +110,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-07 — Minimum Allowed Card Number Length
+## BUGID - 007
 
 ### Preconditions
 - Payment page is open
@@ -126,7 +126,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-08 — Maximum Allowed Card Number Length
+## BUGID - 008
 
 ### Preconditions
 - Payment page is open
@@ -142,7 +142,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-09 — Verify Data Sent to Payment Gateway
+## BUGID - 009
 
 ### Preconditions
 - Payment page is open
@@ -159,7 +159,7 @@ Test cases for payment by bank card via an external payment gateway.
 
 ---
 
-## TC-10 — Redirect to 3-D Secure
+## BUGID - 010
 
 ### Preconditions
 - Payment card requires **3-D Secure authentication**
